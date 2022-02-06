@@ -3,7 +3,7 @@ status = "";
 objects= [];
 
 function preload(){
-    img = loadImage("watch.jpg");
+    img = loadImage("Watch.jpg");
 }
 
 function setup(){
